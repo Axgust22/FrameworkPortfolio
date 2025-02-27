@@ -153,7 +153,7 @@ export default function Home() {
               </h2>
               <div id="StudentInformation">
                 <img
-                  src="Image/studentiformation.jpg"
+                  src="Image/studentin`formation.jpg"
                   alt="Student Information System"
                   className="w-full h-auto object-cover rounded-lg shadow-lg"
                 />
